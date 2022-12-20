@@ -1,4 +1,4 @@
-# Spring Boot Course 2-Weeks 
+# TypeScript-backend-Course
 Hi Everyone, Welcome to TypeScript-backend-Course This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
