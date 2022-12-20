@@ -23,7 +23,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[Node.js](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Introduction)|[----]|
+| الأسبوع 1| 1   |[Node.js](https://github.com/Tuwaiq-Academy-Training/Node.js/blob/main/README.md)|[----]|
 | الأسبوع 1| 2   |[TypeScript](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Annotations-JSON-Controller)|[التمرين الثاني](https://github.com/majdnaser1/Spring-Boot-Exercise2)|
 | الأسبوع 1| 3   |[ Express.js ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-REST)|[التمرين الثالث](https://github.com/majdnaser1/Spring-Boot-Exercise3)|
 | الأسبوع 1| 4   |[ Json-Rest ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الرابع](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
