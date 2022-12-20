@@ -4,7 +4,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 3pm - 8pm  |
+| Class | Sun - Thurs  | 4pm - 8pm  |
 
 
 ## What We Expect From You
