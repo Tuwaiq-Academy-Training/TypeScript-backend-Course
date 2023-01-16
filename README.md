@@ -27,7 +27,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 | الأسبوع 1| 2   |[TypeScript](https://github.com/Tuwaiq-Academy-Training/TypeScript)|
 | الأسبوع 1| 3   |[ Express.js ](https://github.com/Tuwaiq-Academy-Training/js-express-introduction)| [التمرين الثالث](https://2u.pw/waW4lE)|
 | الأسبوع 1| 4   |[ Json ](https://github.com/Tuwaiq-Academy-Training/json-javaScript/blob/main/README.md)| [التمرين الرابع](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
-| الأسبوع 1| 5   |[ Rest ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الخامس](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
+| الأسبوع 1| 5   |[ Rest ](https://github.com/Tuwaiq-Academy-Training/REST-API/blob/main/README.md)| [التمرين الخامس](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
 | الأسبوع 2| 1   |[ Zod ](https://github.com/Tuwaiq-Academy-Training/Zod/blob/main/README.md) |[التمرين السادس](https://2u.pw/hehzmh)|
 | الأسبوع 2| 2   |[ Database SQL ](https://2u.pw/GklAgY)|[التمرين السابع](https://2u.pw/Od6N82)|
 | الأسبوع 2| 3  |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)| 
