@@ -29,7 +29,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 | الأسبوع 1| 4   |[ Json ](https://github.com/Tuwaiq-Academy-Training/json-javaScript/blob/main/README.md)| [التمرين الرابع](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
 | الأسبوع 1| 5   |[ Rest ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-Validation)| [التمرين الخامس](https://github.com/majdnaser1/Spring-Boot-Exercise4)|
 | الأسبوع 2| 1   |[ Zod ](https://github.com/Tuwaiq-Academy-Training/Zod/blob/main/README.md) |[التمرين السادس](https://2u.pw/hehzmh)|
-| الأسبوع 2| 2   |[ Database SQL ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-SQL)|[التمرين السابع](https://github.com/majdnaser1/Spring-Boot-Exercise6)|
+| الأسبوع 2| 2   |[ Database SQL ](https://2u.pw/GklAgY)|[التمرين السابع](https://2u.pw/Od6N82)|
 | الأسبوع 2| 3  |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)| 
 | الأسبوع 2| 4   |[ Prisma-Intermediate.js](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-JPA-Repository)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Spring-boot-Exercise7)|
 | الأسبوع 2| 5   |[ Error Handling ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-JPA-Repository)|[التمرين العاشر](https://github.com/majdnaser1/Spring-Boot-Exercice8)|
