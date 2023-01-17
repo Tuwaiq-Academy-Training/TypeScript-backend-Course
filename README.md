@@ -32,6 +32,6 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 | الأسبوع 2| 2   |[ Database SQL ](https://2u.pw/GklAgY)|[التمرين السابع](https://2u.pw/Od6N82)|
 | الأسبوع 2| 3  |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)|[Lap](Lap)| 
 | الأسبوع 2| 4   |[ Prisma-Intermediate.js](https://2u.pw/oOxxPr)|[التمرين الثامن](https://2u.pw/MqjQPg)|
-| الأسبوع 2| 5   |[ Error Handling ](https://github.com/Tuwaiq-Academy-Training/Spring-Boot-JPA-Repository)|[التمرين العاشر](https://github.com/majdnaser1/Spring-Boot-Exercice8)|
+| الأسبوع 2| 5   |[ Deployment ]()|[التمرين العاشر]()|
 
 
