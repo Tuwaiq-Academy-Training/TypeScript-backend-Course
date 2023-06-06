@@ -25,7 +25,7 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 |:-----:|:---:|:------:|:------:|
 | الأسبوع 1| 1   |[Node.js](https://github.com/Tuwaiq-Academy-Training/Node.js/blob/main/README.md)|[----]|
 | الأسبوع 1| 2   |[TypeScript](https://github.com/Tuwaiq-Academy-Training/TypeScript)|[Lap](Lap)|
-| الأسبوع 1| 3   |[ Express.js ](https://github.com/Tuwaiq-Academy-Training/express.js/blob/main/README.md)| [التمرين الثالث](https://2u.pw/waW4lE)|
+| الأسبوع 1| 3   |[ Express.js ](https://github.com/Tuwaiq-Academy-Training/express.js/blob/main/README.md)| [التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/js-express-introduction/blob/main/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D9%86%20%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%20%D8%A7%D9%84%D8%A7%D9%88%D9%84.md)|
 | الأسبوع 1| 4   |[ Json ](https://github.com/Tuwaiq-Academy-Training/json-javaScript/blob/main/README.md)| [Lap](Lap)|
 | الأسبوع 1| 5   |[ Rest ](https://github.com/Tuwaiq-Academy-Training/REST-API/blob/main/README.md)| [التمرين الخامس](https://2u.pw/rauAtY)|
 | الأسبوع 2| 1   |[ Zod ](https://github.com/Tuwaiq-Academy-Training/Zod/blob/main/README.md) |[التمرين السادس](https://2u.pw/hehzmh)|
